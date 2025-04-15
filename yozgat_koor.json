@@ -2307,7 +2307,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Yerköy"
+        "name": "Yerköy"
       }
     },
     {
@@ -6164,7 +6164,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Akdağmadeni"
+        "name": "Akdağmadeni"
       }
     },
     {
@@ -8101,7 +8101,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Kadışehri"
+        "name": "Kadışehri"
       }
     },
     {
@@ -11390,7 +11390,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Saraykent"
+        "name": "Saraykent"
       }
     },
     {
@@ -13091,7 +13091,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Yenifakılı"
+        "name": "Yenifakılı"
       }
     },
     {
@@ -14840,7 +14840,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Çandır"
+        "name": "Çandır"
       }
     },
     {
@@ -15529,7 +15529,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Yozgat Merkez"
+        "name": "Yozgat Merkez"
       }
     },
     {
@@ -19782,7 +19782,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Sarıkaya"
+        "name": "Sarıkaya"
       }
     },
     {
@@ -21551,7 +21551,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Çekerek"
+        "name": "Çekerek"
       }
     },
     {
@@ -24424,7 +24424,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Çayıralan"
+        "name": "Çayıralan"
       }
     },
     {
@@ -24817,7 +24817,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Şefaatli"
+        "name": "Şefaatli"
       }
     },
     {
@@ -38218,7 +38218,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Boğazlıyan"
+        "name": "Boğazlıyan"
       }
     },
     {
@@ -41543,7 +41543,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Sorgun"
+        "name": "Sorgun"
       }
     },
     {
@@ -47594,7 +47594,7 @@
         ]
       },
       "properties": {
-        "IlAdi1": "Aydıncık"
+        "name": "Aydıncık"
       }
     }
   ]
